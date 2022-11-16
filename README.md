@@ -1,2 +1,7 @@
-# Sololearn_CodeCoach_Solutions
-Sololearn Code Coach Solutions
+# Sololearn Code Coach Solutions
+
+This repository consists of three folders categorized by the difficulty level of the exercise.
+
+The solutions are written by me (@woumo) and are not the most optimal answers.
+
+This repository has an educational character and is free to use by anyone interested.
