@@ -24,17 +24,3 @@ if len(listWord) == len(setWord):
     print("true")
 else:
     print("false")
-
-
-
-"""for i in range(len(lista)):
-    count.append(word.count(lista[i]))
-if 2 in count:
-    anwser = "false"
-else:
-    anwser = "true"
-
-print(anwser)"""
-    
-
-
