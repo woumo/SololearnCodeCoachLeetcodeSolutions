@@ -20,9 +20,6 @@ Buy it!"""
 points = int(input())
 cost = int(input())
 
-# 1 ticket = 12 points
-# squirt gun costs 40 tickets
-
 tickets = points/12
 
 if tickets >= cost:
