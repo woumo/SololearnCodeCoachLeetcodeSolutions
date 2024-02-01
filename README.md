@@ -1,4 +1,4 @@
-# Sololearn Code Coach Solutions
+# Sololearn & Leetcode Code Coach Solutions
 
 This repository consists of three branches categorized by the difficulty level of the exercise.
 
